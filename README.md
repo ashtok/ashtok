@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ashutosh Mahajan
-- 👀 I’m interested in Game Development
-- 🌱 I’m currently learning Multiplayer Component in Game Development
-- 💞️ I’m looking to collaborate on game dev of small indie games
+- 👀 I’m love Game Development
+- 🌱 I’m currently pursuing Masters in Computer Science from Germany
+- 💞️ I’m looking to collaborate on game development of indie titles
 - 📫 Reach me at ashtok897@gmail.com
 
 <!---
