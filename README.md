@@ -1,136 +1,110 @@
-# Hi there, I'm Ashutosh Mahajan 👋
+# Ashutosh Mahajan
 
 <div align="center">
-  
-  **AI/ML Engineer • VR Developer • Computer Science Master's Student**
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahajan09/)
-  [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashutosh.mahajan0908@gmail.com)
-  ![Profile Views](https://komarev.com/ghpvc/?username=ashtok&label=Profile%20views&color=blueviolet&style=flat)
+
+**AI Engineer | Deep Learning Researcher | 4+ Years Production Experience**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahajan09/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ashutosh.mahajan0908@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ashtok)
+
+📍 Würzburg, Germany | 🎓 MSc Computer Science @ Uni Würzburg | 🔬 AI Research Assistant
 
 </div>
 
 ---
 
-## 🎯 About Me
+## 🚀 Quick Highlights
 
-I'm a **Master's in Computer Science** student at Julius Maximilians University Würzburg, Germany, specializing in **AI/ML and Deep Learning**. As a former **Software Development Engineer** at Mobile Premier League, I bring proven experience in building scalable systems, game development, and cutting-edge AI research.
-
-🔬 **Currently researching:** Multilingual LLM evaluation, diffusion models, and VR applications for mathematical visualization  
-🎮 **Professional background:** Full-stack game development, real-time systems optimization, and AI-driven gameplay  
-🚀 **Open to:** AI/ML research collaborations, software engineering roles, and innovative tech projects  
-
----
-
-## 🔬 Featured Research & Projects
-
-### 🤖 **Multilingual LLM Semantic Benchmark**
-[![GitHub](https://img.shields.io/badge/View_Code-181717?style=flat&logo=github&logoColor=white)](https://github.com/ashtok/LM_Eval_Setup) ![Status](https://img.shields.io/badge/Status-Completed-success)
-
-Built comprehensive evaluation framework for **50+ languages** assessing LLM performance on semantic reasoning tasks including hypernymy, meronymy, and analogical reasoning. Integrated with **lm-eval-harness** for systematic cross-lingual model assessment.
-
-**Key Achievements:**
-- Created extensible pipeline for multilingual semantic evaluation
-- Revealed critical insights on model scaling and cross-lingual reasoning capabilities
-- Established new benchmarks for multilingual AI evaluation
-
-### 🎨 **High-Resolution Text-to-Image Generation**
-[![GitHub](https://img.shields.io/badge/View_Code-181717?style=flat&logo=github&logoColor=white)](#) ![Status](https://img.shields.io/badge/Status-Completed-success)
-
-Implemented **DeepFloyd IF** for photorealistic image synthesis with progressive upsampling (64×64 → 1024×1024). Explored comparative analysis of Parti, Imagen, and DeepFloyd IF models for image quality and computational efficiency.
-
-**Technical Highlights:**
-- Web interface for interactive text-to-image generation
-- Modular architecture using Hugging Face Diffusers
-- Comprehensive model comparison and performance analysis
-
-### 🗺️ **Multimodal POI Interaction System**
-[![GitHub](https://img.shields.io/badge/View_Code-181717?style=flat&logo=github&logoColor=white)](#) ![Tech](https://img.shields.io/badge/Tech-VR-blue)
-
-Developed multimodal VR system enabling **speech and gesture-based** Point of Interest interaction, implementing Latent Semantic Analysis for natural user input processing in immersive environments.
-
-### 🌉 **VR Phobia Therapy Platform**
-[![GitHub](https://img.shields.io/badge/View_Code-181717?style=flat&logo=github&logoColor=white)](#) ![Domain](https://img.shields.io/badge/Domain-Mental_Health-green)
-
-Created therapeutic VR environment for **acrophobia treatment** using controlled exposure therapy principles. Features realistic physics simulation and adaptive difficulty progression.
+- 🏗️ **4+ years** building scalable distributed systems and production software at MPL & gaming startups
+- 🔬 **Published AI Research**: Multilingual LLM benchmark covering 50+ languages with automated evaluation pipeline
+- 🧠 **Deep Learning Expertise**: Transformers, Diffusion Models, Vision-Language Models, Multimodal AI
+- 🎯 **Production-Ready Skills**: PyTorch, TensorFlow, Hugging Face, Docker, AWS, large-scale system optimization
+- 💡 **Research + Engineering**: Bridging cutting-edge AI research with practical, deployable solutions
 
 ---
 
-## 🛠️ Technical Arsenal
+## 🔥 Featured AI Projects
 
-<div align="center">
+### 🌐 Multilingual LLM Evaluation Benchmark
+[GitHub](https://github.com/ashtok/LM_Eval_Setup) | *University of Würzburg | Apr-Aug 2025*
 
-### **Programming Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+Production-ready evaluation framework for **50+ languages** assessing LLM semantic understanding across hypernymy, meronymy, and analogies.
 
-### **AI/ML Frameworks**
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+**Impact:** Automated dataset generation using **BabelNet knowledge graph**, integrated with **LM Eval Harness** for standardized evaluations. Revealed scaling patterns and cross-lingual transfer capabilities in modern LLMs.
 
-### **Development & Cloud**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-</div>
-
-### **🧠 Specialized Domains**
-- **Deep Learning:** CNNs, RNNs, LSTMs, GANs, Diffusion Models, Transformers
-- **Computer Vision:** Object Detection, Image Generation, OpenCV
-- **VR/XR Development:** OpenXR, Meta SDK, Unity 3D
-- **NLP:** Multilingual Processing, Semantic Analysis, BabelNet API
+`Python` `PyTorch` `Hugging Face` `LM Eval Harness` `BabelNet API` `NLP`
 
 ---
 
-## 📊 GitHub Analytics
+### 🎨 Text-to-Image Generation with Diffusion Models
+*University of Würzburg | Apr-Aug 2024*
 
-<div align="center">
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ashtok&theme=radical&hide_border=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashtok&layout=compact&theme=radical&hide_border=true&langs_count=8)
+Implemented **DeepFloyd IF** with progressive upsampling (64×64 → 1024×1024). Built web demo and conducted comparative analysis of Parti, Imagen, and DeepFloyd architectures.
 
-</div>
+**Impact:** Deployed production-ready inference pipeline for real-time generation. Systematic evaluation of SOTA generative models.
+
+`PyTorch` `Hugging Face Diffusers` `Transformers` `Docker` `Web Development`
+
+---
+
+### 🧠 Multimodal AI for XR Interaction
+*Research Assistant | Jun 2024 - Present*
+
+Developed **gesture + speech** interaction system with cross-modal learning for immersive environments. Built visualization tools for geometric and AI-based perception research.
+
+**Impact:** Multimodal fusion architecture with Latent Semantic Analysis for natural user interfaces in XR applications.
+
+`Unity 3D` `C#` `Python` `PyTorch` `OpenXR` `Multimodal Learning`
+
+---
+
+## 💼 Experience
+
+**Research Assistant** | *Julius Maximilians University Würzburg* | Jun 2024 - Present
+- Multimodal AI research: gesture recognition, cross-modal learning, XR-based human-computer interaction
+- Building evaluation frameworks for AI perception systems and interactive visualizations
+
+**Software Development Engineer I** | *Mobile Premier League* | Nov 2021 - Sept 2023
+- Engineered large-scale distributed systems serving millions of users with 99.9% uptime
+- Optimized backend architecture: 45% latency reduction, 40% memory efficiency improvement
+- Built fault-tolerant analytical pipelines and real-time data processing systems
+
+**Software Engineer** | *Gaming Startups (Cosi Games, Zenida Studios)* | 2018 - 2021
+- Designed 5+ production applications with intelligent NPC behavior and adaptive gameplay
+- Reduced development time 20% through modular architecture and automation
+- Led cross-functional teams building scalable gaming systems
+
+---
+
+## 🛠️ Technical Stack
+
+**AI/ML**: PyTorch • TensorFlow • Hugging Face • Transformers • LLMs/VLMs • Diffusion Models • CNNs/RNNs • NLP  
+**Engineering**: Python • C++ • C# • Docker • Git • AWS • Distributed Systems • API Design  
+**Data**: Pandas • NumPy • Data Pipelines • Model Evaluation • Benchmarking  
+**Specialized**: LM Eval Harness • Prompt Engineering • Unity 3D • OpenXR • Computer Vision
 
 ---
 
 ## 🎓 Education
 
-**🎯 Master of Science in Computer Science**  
-*Julius Maximilians University Würzburg, Germany* • **2023-2026**  
-**Specialization:** Computer Vision, Deep Learning, NLP, Artificial Intelligence
+**MSc Computer Science** | *University of Würzburg, Germany* | 2023-2026 | Grade: 2.0  
+Focus: AI, Deep Learning, Computer Vision, NLP
 
-**🎓 Bachelor of Technology in Computer Science**  
-*KIIT University, India* • **2015-2019**  
-**GPA:** 8.24/10 • **Focus:** Data Structures, Algorithms, Software Engineering
+**BTech Computer Science** | *KIIT University, India* | 2015-2019 | Grade: 2.1
 
 ---
 
-## 🌍 Languages
+## 📫 Contact
 
-![English](https://img.shields.io/badge/English-C1_IELTS-blue) ![German](https://img.shields.io/badge/German-A2-yellow) ![Hindi](https://img.shields.io/badge/Hindi-Native-green)
+**Open to:** AI Engineer | ML Engineer | Research Engineer roles
+
+📧 ashutosh.mahajan@stud-mail.uni-wuerzburg.de | 💼 [LinkedIn](https://linkedin.com/in/mahajan09/) | 🔗 [GitHub](https://github.com/ashtok)
 
 ---
 
 <div align="center">
 
-## 📬 Let's Connect!
-
-**📧 Email:** [ashutosh.mahajan0908@gmail.com](mailto:ashutosh.mahajan0908@gmail.com)  
-**💼 LinkedIn:** [linkedin.com/in/mahajan09](https://linkedin.com/in/mahajan09/)  
-**📍 Location:** Würzburg, Bavaria, Germany  
-
----
-
-*"Building intelligent systems that bridge the gap between cutting-edge AI research and real-world applications"*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahajan09/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashutosh.mahajan0908@gmail.com)
+*Building intelligent systems that bridge cutting-edge AI research with real-world applications*
 
 </div>
