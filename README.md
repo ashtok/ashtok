@@ -1,5 +1,6 @@
+<div align="center">
 # Ashutosh Mahajan
-
+</div>
 <div align="center">
 
 **AI Engineer | Deep Learning Researcher | 4+ Years Production Experience**
