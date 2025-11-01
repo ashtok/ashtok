@@ -1,10 +1,7 @@
 <div align="center">
-# Ashutosh Mahajan
-</div>
-<div align="center">
-
-**AI Engineer | Deep Learning Researcher | 4+ Years Production Experience**
-
+Ashutosh Mahajan
+AI Engineer | Deep Learning Researcher | 4+ Years Production Experience
+  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahajan09/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ashutosh.mahajan0908@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ashtok)
