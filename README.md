@@ -87,15 +87,16 @@ My work focuses on:
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashtok&show_icons=true&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashtok&layout=compact&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=ashtok&theme=radical&hide_border=true)
+
+![Profile Stats](https://github-widgetbox.vercel.app/api/profile?username=ashtok&data=followers,repositories,stars,commits&theme=radical)
 
 </div>
+
 
 ---
 
