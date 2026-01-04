@@ -16,7 +16,7 @@ M.Sc. Computer Science @ Julius-Maximilians-Universität Würzburg
 
 ## 🎯 About Me
 
-Master's student specializing in AI and Deep Learning with **4+ years of professional software engineering experience** [file:3]. Currently working as a Research Assistant developing multimodal AI systems and interactive visualization tools for XR-based research [file:3].
+Master's student specializing in AI and Deep Learning with **4+ years of professional software engineering experience**. Currently working as a Research Assistant developing multimodal AI systems and interactive visualization tools for XR-based research.
 
 My work focuses on:
 - 🌍 **Multilingual LLM Evaluation** – Benchmarking semantic understanding across 50+ languages
@@ -51,20 +51,20 @@ My work focuses on:
 
 ### 🌐 Multilingual LLM Benchmark
 **Lexical Meaning Benchmark for Semantic QA** | *Apr 2025 – Aug 2025*
-- Designed evaluation framework covering **50+ languages** to assess LLM semantic understanding [file:3]
+- Designed evaluation framework covering **50+ languages** to assess LLM semantic understanding
 - Automated dataset generation using BabelNet seed-word traversal
-- Integrated with **LM Eval Harness** for large-scale model evaluation [file:3]
+- Integrated with **LM Eval Harness** for large-scale model evaluation
 - Conducted systematic error analysis across language families and resource levels
 
 ### 🎨 Text-to-Image Generation Research
 **DeepFloyd IF, Parti & Imagen Comparison** | *Apr 2024 – Aug 2024*
-- Built web-based demo for text-to-image generation using **Hugging Face** [file:3]
+- Built web-based demo for text-to-image generation using **Hugging Face**
 - Comparative analysis of diffusion vs autoregressive architectures
 - Delivered live demonstration for research and teaching applications
 
 ### 🥽 Immersive XR Research
 **Step of Faith: Risk Perception Study** | *Oct 2023 – Mar 2024*
-- Developed VR simulation investigating fear and risk perception [file:3]
+- Developed VR simulation investigating fear and risk perception
 - Analyzed psychological responses in controlled immersive environments
 - Contributed to human-computer interaction research
 
@@ -72,16 +72,16 @@ My work focuses on:
 
 ## 💼 Professional Experience
 
-**Research Assistant** @ Julius-Maximilians-Universität Würzburg *(Jun 2024 – Present)* [file:3]
+**Research Assistant** @ Julius-Maximilians-Universität Würzburg *(Jun 2024 – Present)*
 - Developing visualization tools for geometric, multimodal, and XR-based AI research
 - Investigating cross-modal interaction pipelines with emphasis on efficiency
 
-**Software Development Engineer I** @ Mobile Premier League *(Nov 2021 – Sept 2023)* [file:3]
+**Software Development Engineer I** @ Mobile Premier League *(Nov 2021 – Sept 2023)*
 - Engineered large-scale distributed systems with focus on reliability and fault tolerance
 - Designed ML-based anomaly detection frameworks using behavioral data
 - Improved system scalability through architectural optimization
 
-**Software Engineer** @ Cosi Games *(Feb 2021 – Oct 2021)* [file:3]
+**Software Engineer** @ Cosi Games *(Feb 2021 – Oct 2021)*
 - Reduced backend latency by **45%** through system optimization
 - Refactored legacy code, reducing technical debt by **30%**
 
@@ -101,18 +101,18 @@ My work focuses on:
 
 ## 🎓 Education
 
-**M.Sc. Computer Science** | Julius-Maximilians-Universität Würzburg *(2023 – 2026)* [file:3]
+**M.Sc. Computer Science** | Julius-Maximilians-Universität Würzburg *(2023 – 2026)* 
 - Grade: 2.0 (German scale)
 - Focus: Artificial Intelligence & Deep Learning
 
-**B.Tech Computer Science** | Kalinga Institute of Industrial Technology *(2015 – 2019)* [file:3]
+**B.Tech Computer Science** | Kalinga Institute of Industrial Technology *(2015 – 2019)* 
 - Grade: 2.1 (German scale)
 
 ---
 
 ## 🌍 Languages
 
-🇬🇧 English (C1 - IELTS 8) | 🇩🇪 German (Elementary) | 🇮🇳 Hindi (Native) [file:3]
+🇬🇧 English (C1 - IELTS 8) | 🇩🇪 German (Elementary) | 🇮🇳 Hindi (Native) 
 
 ---
 
@@ -123,6 +123,6 @@ I'm always interested in collaborating on AI/ML research, particularly in:
 - Multimodal AI systems
 - Generative models and their applications
 
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/ashutoshmahajan) or [email](mailto:ashutosh.mahajan@stud-mail.uni-wuerzburg.de)!
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/ashutoshmahajan) or [email](mailto:ashutosh.mahajan0908@gmail.com)!
 
 </div>
