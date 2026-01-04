@@ -87,18 +87,6 @@ My work focuses on:
 
 ---
 
-## 📊 GitHub Activity
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=ashtok&theme=radical&hide_border=true)
-
-![Profile Stats](https://github-widgetbox.vercel.app/api/profile?username=ashtok&data=followers,repositories,stars,commits&theme=radical)
-
-</div>
-
-
----
 
 ## 🎓 Education
 
