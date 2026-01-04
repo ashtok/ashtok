@@ -101,7 +101,7 @@ My work focuses on:
 
 ## 🌍 Languages
 
-🇬🇧 English (C1 - IELTS 8) | 🇩🇪 German (Elementary) | 🇮🇳 Hindi (Native) 
+English (C1 - IELTS 8) | German (Elementary) | Hindi (Native) 
 
 ---
 
