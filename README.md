@@ -26,7 +26,7 @@ My work focuses on:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -47,22 +47,22 @@ My work focuses on:
 
 ---
 
-## 🔬 Featured Projects
+## Featured Projects
 
-### 🌐 Multilingual LLM Benchmark
+### Multilingual LLM Benchmark
 **Lexical Meaning Benchmark for Semantic QA** | *Apr 2025 – Aug 2025*
 - Designed evaluation framework covering **50+ languages** to assess LLM semantic understanding
 - Automated dataset generation using BabelNet seed-word traversal
 - Integrated with **LM Eval Harness** for large-scale model evaluation
 - Conducted systematic error analysis across language families and resource levels
 
-### 🎨 Text-to-Image Generation Research
+### Text-to-Image Generation Research
 **DeepFloyd IF, Parti & Imagen Comparison** | *Apr 2024 – Aug 2024*
 - Built web-based demo for text-to-image generation using **Hugging Face**
 - Comparative analysis of diffusion vs autoregressive architectures
 - Delivered live demonstration for research and teaching applications
 
-### 🥽 Immersive XR Research
+### Immersive XR Research
 **Step of Faith: Risk Perception Study** | *Oct 2023 – Mar 2024*
 - Developed VR simulation investigating fear and risk perception
 - Analyzed psychological responses in controlled immersive environments
