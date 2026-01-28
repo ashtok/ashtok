@@ -14,15 +14,15 @@ M.Sc. Computer Science @ Julius-Maximilians-Universität Würzburg
 
 ---
 
-## 🎯 About Me
+## About Me
 
 Master's student specializing in AI and Deep Learning with **4+ years of professional software engineering experience**. Currently working as a Research Assistant developing multimodal AI systems and interactive visualization tools for XR-based research.
 
 My work focuses on:
-- 🌍 **Multilingual LLM Evaluation** – Benchmarking semantic understanding across 50+ languages
-- 🎨 **Generative AI** – Text-to-image systems with diffusion and autoregressive models
-- 🔬 **Applied ML Research** – Multimodal pipelines combining vision, language, and geometry
-- ⚙️ **Production Systems** – Scalable distributed architectures and anomaly detection frameworks
+- **Multilingual LLM Evaluation** – Benchmarking semantic understanding across 50+ languages
+- **Generative AI** – Text-to-image systems with diffusion and autoregressive models
+- **Applied ML Research** – Multimodal pipelines combining vision, language, and geometry
+- **Production Systems** – Scalable distributed architectures and anomaly detection frameworks
 
 ---
 
