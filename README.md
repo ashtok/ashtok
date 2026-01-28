@@ -70,7 +70,7 @@ My work focuses on:
 
 ---
 
-## 💼 Professional Experience
+## Professional Experience
 
 **Research Assistant** @ Julius-Maximilians-Universität Würzburg *(Jun 2024 – Present)*
 - Developing visualization tools for geometric, multimodal, and XR-based AI research
@@ -88,7 +88,7 @@ My work focuses on:
 ---
 
 
-## 🎓 Education
+## Education
 
 **M.Sc. Computer Science** | Julius-Maximilians-Universität Würzburg *(2023 – 2026)* 
 - Grade: 2.0 (German scale)
@@ -99,13 +99,13 @@ My work focuses on:
 
 ---
 
-## 🌍 Languages
+## Languages
 
 English (C1 - IELTS 8) | German (Elementary) | Hindi (Native) 
 
 ---
 
-## 📫 Get in Touch
+## Get in Touch
 
 I'm always interested in collaborating on AI/ML research, particularly in:
 - Large Language Model evaluation and benchmarking
